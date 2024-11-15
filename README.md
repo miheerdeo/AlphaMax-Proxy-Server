@@ -9,6 +9,10 @@ Low Level Design
 
 ![image alt](uml_diagram.jpeg)
 
+Output:- 
+
+![image alt](Output.png)
+
 Limitations
 1)Cache Redundancy:  If a URL opens multiple clients simultaneously, each client’s response is cached separately, which can fragment responses.
 2)Fixed Cache Size: Larger websites may not fit into the cache.
