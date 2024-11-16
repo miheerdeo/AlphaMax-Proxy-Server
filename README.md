@@ -7,7 +7,7 @@ High Level Design:-
 
 Low Level Design
 
-![image alt](uml_diagram.jpeg)
+![image alt](diagram-export-11-16-2024-9_21_24-AM.png)
 
 Output:- 
 
